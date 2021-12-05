@@ -1,0 +1,4 @@
+/.objs/
+*.exe
+/COWFIND.inp
+/cowfind.OUT
